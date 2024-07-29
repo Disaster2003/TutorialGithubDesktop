@@ -1,9 +1,9 @@
 # Github Desktopのチュートリアル
-Unityでの使用想定  
+Unity/Unreal Engineでの使用想定  
 〇Create a new repository  
 ・Name : 作成したUnityプロジェクト名  
 ・Local path: 作成したプロジェクト名を含めないパス  
-・Git ignore : Unity
+・Git ignore : Unity/Unreal Engine
 
 〇Commit : 前回からの変更内容をコメントをつけて保存
 
