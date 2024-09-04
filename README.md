@@ -20,5 +20,3 @@ Unity/Unreal Engineでの使用想定
 # チーム制作の参考資料
 〇招待  
 https://docs.github.com/ja/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository
-
-〇ブランチ  
