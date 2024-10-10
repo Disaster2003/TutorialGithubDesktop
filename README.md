@@ -14,6 +14,7 @@ Unity/Unreal Engineでの使用想定
 
 〇Branch  
 ・merge... : 今の作業内容を保存しているブランチをDefault branchに統合  
+※その後、必ずpushする  
 ・squash and merge... : merge後、今の作業内容を保存しているブランチを削除  
 　->ブランチを触らなくなる場合  
 
