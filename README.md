@@ -10,7 +10,9 @@ Unity/Unreal Engineでの使用想定
 〇Repository  
 ・fetch : リモートで変更された内容をローカルに保存  
 ・push : ローカルで変更された内容をリモートに保存  
-・pull : fetchとpushを行う
+・pull : fetchとmergeを行う  
+※pullを行う前にローカルを変更していた場合、  
+　必ずcommitする
 
 〇Branch  
 ・merge... : 今の作業内容を保存しているブランチをDefault branchに統合  
